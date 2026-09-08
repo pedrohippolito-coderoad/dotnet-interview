@@ -9,6 +9,7 @@ The goal of this challenge is to create a simple order analytics solution using 
 1. Navigate to: [.NET Fiddle](https://dotnetfiddle.net/?utm_source=chatgpt.com)
 2. Select the **.NET 10** compiler.
 3. Use the provided classes and fake database as the starting point.
+4. Feel free to use Linq for external help.
 
 ---
 
